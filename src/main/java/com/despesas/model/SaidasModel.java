@@ -8,7 +8,7 @@ import java.util.UUID;
 
 @Entity
 @Table(name = "TB_SAIDAS")
-public class Saidas implements Serializable {
+public class SaidasModel implements Serializable {
     private static final long serioVersionUID = 1L;
 
     @Id
